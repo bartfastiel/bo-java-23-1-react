@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Motherboard from "./Motherboard";
 
 export default function App() {
